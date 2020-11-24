@@ -74,8 +74,8 @@ class bandera:
                 porcentaje4 = cuarto / len(self.labels)
 
         print(f"El porcentaje para el color 1 de la bandera es de: {porcentaje1}")
-        print(f"El porcentaje para el color 2 de la bandera es de: {porcentaje2}")
-        print(f"El porcentaje para el color 3 de la bandera es de: {porcentaje2}")
+        print(f"El porcentaje para el color 2 de la bandera es de: {porcentaje1}")
+        print(f"El porcentaje para el color 3 de la bandera es de: {porcentaje1}")
         print(f"El porcentaje para el color 4 de la bandera es de: {porcentaje4}")
 
     def orientacion (self):
